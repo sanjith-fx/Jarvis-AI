@@ -49,13 +49,13 @@ v1.0
 
 ### Startup
 
-![Startup](assets/screenshots/v1/startup.png.png)
+![Startup](assets/screenshots/v1/startup.png)
 
 ### YouTube Search
 
-![YouTube Search](assets/screenshots/v1/youtube_search_command.png.png)
-![YouTube Search](assets/screenshots/v1/youtube_search.png.png)
+![YouTube Search](assets/screenshots/v1/youtube_search_command.png)
+![YouTube Search](assets/screenshots/v1/youtube_search.png)
 
 ### Time Command
 
-![Time Command](assets/screenshots/v1/time_command.png.png)
+![Time Command](assets/screenshots/v1/time_command.png)
