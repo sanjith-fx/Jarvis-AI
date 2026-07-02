@@ -44,3 +44,18 @@ v1.0
 - Desktop Automation
 - Vision
 - GUI
+
+## Screenshots
+
+### Startup
+
+![Startup](assets/screenshots/v1/startup.png.png)
+
+### YouTube Search
+
+![YouTube Search](assets/screenshots/v1/youtube_search_command.png.png)
+![YouTube Search](assets/screenshots/v1/youtube_search.png.png)
+
+### Time Command
+
+![Time Command](assets/screenshots/v1/time_command.png.png)
